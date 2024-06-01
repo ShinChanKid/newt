@@ -1,0 +1,30 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 275: choice menuitem expects a non-empty block.
+    "2) Зелье от кашля.":
+                         ^
+
+File "game/script.rpy", line 285: choice menuitem expects a non-empty block.
+    "1) экстракт Бадьяна, Лирный Корень, порошок из рога Единорога, яд Глизня.":
+                                                                                ^
+
+File "game/script.rpy", line 297: choice menuitem expects a non-empty block.
+    "1) Умострильное зелье.":
+                             ^
+
+File "game/script.rpy", line 309: choice menuitem expects a non-empty block.
+    "1) Бодроперцовое зелье.":
+                              ^
+
+File "game/script.rpy", line 321: choice menuitem expects a non-empty block.
+    "1) Умострильное зелье.":
+                             ^
+
+File "game/script.rpy", line 336: choice menuitem expects a non-empty block.
+    "2) Зефир":
+               ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Sat Jun  1 08:21:28 2024
